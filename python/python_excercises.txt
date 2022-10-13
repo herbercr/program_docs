@@ -1,0 +1,3 @@
+Python excercises 
+1. seqn of characters
+2.
