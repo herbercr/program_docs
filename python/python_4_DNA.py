@@ -8,3 +8,4 @@ for DNA in DNA_list:
 DNA_list_lengths = [(len(DNA),DNA) for DNA in DNA_list]
 print(DNA_list_lengths)
 
+DNA_pos_len = ([
